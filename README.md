@@ -18,10 +18,8 @@ A simple and user-friendly Contact Book application built with Python using the 
 
 
 ## 📸 Screenshot
+![contactbook  screenshot](https://github.com/user-attachments/assets/97a14dd8-4cce-4098-a73d-08599f6e55e2)
 
-> _Add your own screenshot of the app here_
-
----
 
 ## 🛠️ Requirements
 
